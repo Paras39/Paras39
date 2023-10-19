@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paras39
 - 👀 I’m interested in Graphics Designing, Web Development and Software Quality Assurance.
-- 🌱 I’m currently learning .Net
+- 🌱 I’m currently learning Programming in .Net
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me you can reach me by my email: romeop169@gmail.com
 
